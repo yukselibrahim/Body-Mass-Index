@@ -1,0 +1,8 @@
+C:\Users\ibrah\Desktop\İbrahim Yüksel\Body_Mass_Index\Body_Mass_Index\bin\Debug\Body_Mass_Index.exe.config
+C:\Users\ibrah\Desktop\İbrahim Yüksel\Body_Mass_Index\Body_Mass_Index\bin\Debug\Body_Mass_Index.exe
+C:\Users\ibrah\Desktop\İbrahim Yüksel\Body_Mass_Index\Body_Mass_Index\bin\Debug\Body_Mass_Index.pdb
+C:\Users\ibrah\Desktop\İbrahim Yüksel\Body_Mass_Index\Body_Mass_Index\obj\Debug\Body_Mass_Index.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\İbrahim Yüksel\Body_Mass_Index\Body_Mass_Index\obj\Debug\Body_Mass_Index.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\Desktop\İbrahim Yüksel\Body_Mass_Index\Body_Mass_Index\obj\Debug\Body_Mass_Index.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\İbrahim Yüksel\Body_Mass_Index\Body_Mass_Index\obj\Debug\Body_Mass_Index.exe
+C:\Users\ibrah\Desktop\İbrahim Yüksel\Body_Mass_Index\Body_Mass_Index\obj\Debug\Body_Mass_Index.pdb
